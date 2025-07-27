@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+t5-sql-finetuned/*.ckpt
+t5-sql-finetuned/*.pth
+t5-sql-finetuned/*.pt
